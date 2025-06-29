@@ -1,8 +1,18 @@
 what i learn
 
-git init   - for git initialization (in the project folder)
-git status  - we can see what happen in file & curent status
-git add - adding to the git cache
-git commit -m "message"  - m = (we comment what we do)
+git init 
+git status 
+git add 
+git commit 
+git log
+git branch feature
+
 
 added some change
+added some cahnges in features
+
+
+
+
+
+
